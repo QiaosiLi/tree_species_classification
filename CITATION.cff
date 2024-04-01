@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Mapping multi-layered mangroves from multispectral,
+  hyperspectral, and LiDAR data
+message: >-
+  If you find our work useful in your research, please
+  consider citing it as below.
+type: software
+authors:
+  - given-names: Qiaosi
+    family-names: Li
+  - given-names: Frankie Kwan Kit
+    family-names: Wong
+  - given-names: Tung
+    family-names: Fung
+identifiers:
+  - type: doi
+    value: 10.1016/j.rse.2021.112403
